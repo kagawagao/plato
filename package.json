@@ -159,7 +159,7 @@
     "postcss-custom-properties": "^5.0.1",
     "postcss-font-variant": "^2.0.1",
     "postcss-import": "^8.1.2",
-    "postcss-loader": "^0.9.1",
+    "postcss-loader": "^0.13.0",
     "postcss-reporter": "^1.4.1",
     "postcss-url": "^5.1.2",
     "rimraf": "^2.5.3",
