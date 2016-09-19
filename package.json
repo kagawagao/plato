@@ -159,7 +159,7 @@
     "postcss-url": "^5.1.2",
     "rimraf": "^2.5.4",
     "selenium-server": "^2.53.1",
-    "sinon": "^1.17.5",
+    "sinon": "^1.17.6",
     "sinon-chai": "^2.8.0",
     "style-loader": "^0.13.1",
     "stylelint": "^7.2.0",
