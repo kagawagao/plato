@@ -146,7 +146,7 @@
     "koa-favicon": "^2.0.0",
     "koa-logger": "^2.0.0",
     "koa-static": "^3.0.0",
-    "mocha": "^3.0.2",
+    "mocha": "^3.1.0",
     "nightwatch": "^0.9.8",
     "nodemon": "^1.10.2",
     "phantomjs-polyfill": "^0.0.2",
