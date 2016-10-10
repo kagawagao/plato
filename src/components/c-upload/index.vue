@@ -149,23 +149,4 @@ export default {
 }
 </script>
 
-<style lang="postcss">
-:root {
-  --width: dpr(100px);
-  --height: dpr(100px);
-}
-.c-upload {
-  width: var(--width);
-  height: var(--height);
-  border: 1px dashed #38adff;
-  border-radius: dpr(6px);
-  position: relative;
-}
-
-.c-upload-icon {
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  color: rgba(56, 173, 255, 0.5);
-}
-</style>
+<style src="styles/components/upload"></style>
