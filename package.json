@@ -94,7 +94,7 @@
     "postcss-reporter": "^1.4.1",
     "postcss-url": "^5.1.2",
     "rimraf": "^2.5.4",
-    "selenium-server": "^2.53.1",
+    "selenium-server": "^3.0.0",
     "sinon": "^1.17.6",
     "sinon-chai": "^2.8.0",
     "style-loader": "^0.13.1",
